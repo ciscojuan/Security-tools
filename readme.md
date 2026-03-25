@@ -26,7 +26,7 @@ Este repositorio está diseñado para crecer progresivamente con utilidades prá
 
 ## 🔍 HTTP Headers Checker (Python)
 
-Script en Python para analizar cabeceras de seguridad HTTP de una web y generar un resultado tipo auditoría SOC.
+Script en Python para analizar cabeceras de seguridad HTTP y SSL de una web siguiendo la metodologia OWASP.
 
 ### ✅ Características
 
@@ -47,9 +47,8 @@ Script en Python para analizar cabeceras de seguridad HTTP de una web y generar 
 
 ---
 
-# ⚙️ Requisitos
+# ⚙️ Como usarlo:
 
-* Python 3.8+
-* pip
+* pip install requests
+* python3 cabeceras-HTTP_SSL.py
 
-Inst
