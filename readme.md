@@ -15,11 +15,8 @@ Este repositorio está diseñado para crecer progresivamente con utilidades prá
 
 ```
 .
-├── http_headers_checker/
-│   ├── headers_check.py
-│   └── README.md
-├── ssl_analysis/ (futuro)
-├── tools/ (scripts adicionales)
+├── cabeceras-HTTP_SSL.py
+│
 └── README.md
 ```
 
